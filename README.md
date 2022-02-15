@@ -2,7 +2,10 @@
 
 <div>
 📌-> Hello, I'm 17 years old and my name is Rafael. I live in Brazil, in Garanhuns, and I am a student in the last year of the technical course in systems development at the state school.
+ 
+ 
  📝-> I'm currently learning the Dart programming language along with Flutter, its framework. I have a knowledge base in Python, JavaScript, HTML and CSS.
+ 
 🔎-> I've been studying computing and programming for a few years, and next year I want to study computer science, my desire is to become a programmer.
 </div><br>
 <div style="display: inline_block">
