@@ -19,8 +19,8 @@
 
 <div align="center">
   <a href="https://github.com/olymis/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olymis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olymis&layout=compact&=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinhoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhoo&layout=compact&=7&theme=radical"/>
 </div>
   
 ##
