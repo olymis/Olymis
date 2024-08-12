@@ -1,11 +1,7 @@
 ## Hi, im Rafael! 
 
 <div>
-📌-> Hello, I'm 18 years old and my name is Rafael. I live in Brazil, in Garanhuns, and i am studying software development, in addition to having taken a technical course in System Development.
- <br>
- 📝-> I'm currently learning the C# programming language along with Unity 3D. I have a knowledge base in Python, JavaScript, HTML, CSS, Java, PHP and Dart.
- 
-🔎-> I've been studying computing and programming for a few years, and next year I want to study computer science, my desire is to become a programmer.
+
 </div><br>
 <div style="display: inline_block">
    <img align="center" alt="rafael-python" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
